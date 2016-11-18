@@ -1,0 +1,2 @@
+# JKAlertView
+JKAlertView，在iOS8之后实现iOS7的UIAlertView
